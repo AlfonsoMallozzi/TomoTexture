@@ -4,6 +4,11 @@
 
 A tool to replace and manage UGC canvases in your Tomodachi Life save files — swap any drawing with your own image!
 
+Currently supported:
+ Foods
+ Goods (except videos)
+ Faces
+
 Should be easy to use, no install required.
 
 
